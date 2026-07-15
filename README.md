@@ -2,7 +2,7 @@
 
 **`Data Scientist | AI Engineer`**
 
-I have over 4 years of experience, with strong expertise in machine learning, statistical modeling, and big data solutions. At Autoglass, I design and implement end-to-end data projects, transforming raw data into predictive insights and AI-driven solutions that improve decision-making and business performance.
+I have over 5 years of experience, with strong expertise in machine learning, statistical modeling, and big data solutions. At Autoglass, I design and implement end-to-end data projects, transforming raw data into predictive insights and AI-driven solutions that improve decision-making and business performance.
 
 <p align="left">
     <a href="https://github.com/lpereira19?tab=repositories&sort=stargazers">
